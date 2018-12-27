@@ -86,7 +86,7 @@
       <p><i>Why can't your canine companion be classy too?</i></p>
     </div>
     <div class="page-header">
-      <h1>Our Products</h1>
+      <h1>Our Products(HPE)</h1>
     </div>
 
     <div class="row">
